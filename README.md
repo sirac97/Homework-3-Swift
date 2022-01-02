@@ -1,4 +1,4 @@
-# Homework-3-Swift
+# Displaying & parsing data in Swift
  Parse and display style of XML and Json in both UICollection View and UITable View
 
 
